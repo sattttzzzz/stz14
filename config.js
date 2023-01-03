@@ -6,7 +6,7 @@ global.owner = [
   ['6288213793536', 'Sattzzzz', true]  
   
 ] 
-global.ownername = [['Gempy']]
+global.ownername = [['Sattzzzz']]
 global.namabot = [['PANDABOT']]
 global.ownerinsta = [['@onlyskyyyy_']]
 global.mods = [] 
